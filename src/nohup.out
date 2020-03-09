@@ -1,0 +1,15 @@
+/Users/rupesh/react-expense-manager/src/index.js:1
+(function (exports, require, module, __filename, __dirname) { import React from 'react';
+                                                              ^^^^^^
+
+SyntaxError: Unexpected token import
+    at new Script (vm.js:51:7)
+    at createScript (vm.js:136:10)
+    at Object.runInThisContext (vm.js:197:10)
+    at Module._compile (module.js:613:28)
+    at Object.Module._extensions..js (module.js:660:10)
+    at Module.load (module.js:561:32)
+    at tryModuleLoad (module.js:501:12)
+    at Function.Module._load (module.js:493:3)
+    at Function.Module.runMain (module.js:690:10)
+    at startup (bootstrap_node.js:194:16)
